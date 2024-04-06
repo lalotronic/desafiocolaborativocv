@@ -182,3 +182,12 @@ header {
 footer{
   background-color: darkslategrey;
 }
+
+footer a{
+  color:white;
+  
+}
+
+footer a:hover {
+color:gray;
+}
